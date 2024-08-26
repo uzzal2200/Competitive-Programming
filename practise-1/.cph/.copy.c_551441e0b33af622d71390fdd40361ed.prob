@@ -1,0 +1,1 @@
+{"name":"Local: copy","url":"d:\\practise-1\\copy.c","tests":[{"id":1692856201823,"input":"5\n2 3 4 5 6\n3\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\practise-1\\copy.c","group":"local","local":true}
